@@ -1,4 +1,4 @@
 # demo
 demo repository
 <br>
-Auhtor - Harsh
+Auhtor - Harsh Sisale
